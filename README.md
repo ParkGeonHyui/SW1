@@ -1,1 +1,3 @@
-20203063 ParkGeonHyui Software
+20203063 ParkGeonHyui
+Software
+Kookmin Univ.
